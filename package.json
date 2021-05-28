@@ -8,7 +8,9 @@
     "url": "git+https://github.com/loongjs/loong-loader.git"
   },
   "keywords": [
-    "babel-plugin"
+    "loong-js",
+    "webpack",
+    "loader"
   ],
   "author": "Shen Chang",
   "license": "MIT",
