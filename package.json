@@ -1,0 +1,21 @@
+{
+  "name": "@loong-js/loong-loader",
+  "version": "0.0.1",
+  "description": "This is lsx loader",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loongjs/loong-loader.git"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "author": "Shen Chang",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.14.3"
+  },
+  "peerDependencies": {
+    "@loong-js/babel-plugin-transform-loong": "^0.0.7"
+  }
+}
